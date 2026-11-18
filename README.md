@@ -38,6 +38,7 @@ endmodule
 
 ```
 ## **Testbench Program
+```
 module tb4;
     reg  A, B, S, D;
     wire Y;
@@ -83,7 +84,7 @@ module tb4;
         #10 $finish;
     end
 endmodule
-
+```
 
 
 ## Truth Table
